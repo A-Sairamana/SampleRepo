@@ -1,5 +1,3 @@
 this page contains all the standards that this project follows.
 
 it also contains the way to install the app from internet.
-
-basics how to use this app.
